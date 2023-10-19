@@ -15,3 +15,4 @@ celcius_calc = farenheit - 32 * 5 / 9
 
 def fahrenheit_to_celcius():
    print(celcius)
+   
